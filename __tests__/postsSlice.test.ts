@@ -1,5 +1,5 @@
-import postsReducer, { fetchPosts } from '../postsSlice';
-import { Post } from '../../../types/types';
+import postsReducer, { fetchPosts } from '../src/store/slices/postsSlice';
+import { Post } from '../src/types/types';
 
 describe('postsSlice', () => {
   const initialState = {

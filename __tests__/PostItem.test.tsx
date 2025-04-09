@@ -1,7 +1,7 @@
 import React from 'react';
 import { render, fireEvent } from '@testing-library/react-native';
-import PostItem from '../PostItem';
-import { Post } from '../../types/types';
+import PostItem from '../src/components/PostItem';
+import { Post } from '../src/types/types';
 
 const mockPost: Post = {
   id: 1,

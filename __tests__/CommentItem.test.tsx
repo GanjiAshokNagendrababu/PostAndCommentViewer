@@ -1,7 +1,7 @@
 import React from 'react';
 import { render, fireEvent } from '@testing-library/react-native';
-import CommentItem from '../CommentItem';
-import { Comment } from '../../types/types';
+import CommentItem from '../src/components/CommentItem';
+import { Comment } from '../src/types/types';
 
 const mockComment: Comment = {
   id: 1,

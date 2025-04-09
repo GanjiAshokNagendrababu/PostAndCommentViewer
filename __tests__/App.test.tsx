@@ -1,8 +1,7 @@
 /**
  * @format
  */
-
-import React from 'react';
+import * as React from 'react';
 import ReactTestRenderer from 'react-test-renderer';
 import App from '../src/App';
 
