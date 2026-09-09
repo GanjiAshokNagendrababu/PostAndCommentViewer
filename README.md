@@ -19,5 +19,7 @@ Test Cases:
    ```bash
    npm test
    ```
+3. Sample API
+   https://jsonplaceholder.typicode.com
 
 
